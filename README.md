@@ -49,7 +49,7 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| 🎮 **[Our Story](https://github.com/De1niz/OurStory)** *(Under development)* | 3D co-op adventure game: split-screen character creator with procedural meshes, physics-based local co-op, a hub world with 12 chapters and 5 mini-games (including a full chess engine) | Java · jMonkeyEngine · Gradle |
+| 🎮 **[Our Story](https://github.com/De1niz/Our-Story)** *(Under development)* | 3D co-op adventure game: split-screen character creator with procedural meshes, physics-based local co-op, a hub world with 12 chapters and 5 mini-games (including a full chess engine) | Java · jMonkeyEngine · Gradle |
 | 💻 **[Online Code Executer](https://github.com/De1niz/OnlineCodeExecuter)** | Browser-based Java IDE: write code, run it on the server and stream the output back in real time | Java · Spring Boot · WebSocket · Docker |
 | 💳 **[SubsKript](https://github.com/De1niz/Subskript)** | Subscription tracking and payment API with Stripe payments, JWT admin authentication and an admin panel | Stripe API · MySQL · REST · HTML/CSS/JS |
 
