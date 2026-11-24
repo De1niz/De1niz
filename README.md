@@ -37,13 +37,4 @@
 
 ---
 
-### 📊 GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=De1niz&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De1niz&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by! Feel free to reach out. I'm always happy to talk about code.</i></p>
