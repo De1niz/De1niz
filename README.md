@@ -12,7 +12,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Computer Science student at **University of Vizja**, focusing on **Artificial Intelligence & Data Science**
-- ☕ I mostly build with **Java**: back-end services, APIs and, lately, a 3D game
+- ☕ I mostly build with **Java**: back-end services, APIs and lately a 3D game
 - 💳 Experienced in integrating third-party APIs such as **Stripe**, **Nutritionix** and **ExerciseDB**
 - 🌱 Currently learning **Spring Boot**, WebSockets and 3D graphics with **jMonkeyEngine**
 - 🗣️ English · Spanish · Turkish
