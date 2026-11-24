@@ -54,17 +54,3 @@
 | 💳 **[SubsKript](https://github.com/De1niz/Subskript)** | Subscription tracking and payment API with Stripe payments, JWT admin authentication and an admin panel | Stripe API · MySQL · REST · HTML/CSS/JS |
 
 ---
-
-<p align="center"><i>Thanks for stopping by! Feel free to reach out. I'm always happy to talk about code.</i></p>
-<h1 align="center">Hi, I'm Deniz 👋</h1>
-<h3 align="center">Computer Science Student · Java Developer · Warsaw, Poland</h3>
-
-<p align="center">
-  <a href="mailto:denizerdogan123@icloud.com"><img src="https://img.shields.io/badge/Email-denizerdogan123%40icloud.com-3C6FD8?style=flat-square&logo=icloud&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Location-Warsaw%2C%20Poland-1F2A3C?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2EA043?style=flat-square" alt="Open to work">
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by! Feel free to reach out. I'm always happy to talk about code.</i></p>
